@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuel-Cavalcante
 - 👀 I’m interested in keep learning about programming
-- 🌱 I’m currently learning React && Node
+- 🌱 I’m currently learning React and Node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
